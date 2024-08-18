@@ -1,3 +1,2 @@
-print("Hello, World class devops 2025!")
+print("Hello, World")
 
-print ("add new content here")
