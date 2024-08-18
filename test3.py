@@ -1,1 +1,1 @@
-print("Hello, World class devops 2024!")
+print("Hello, World class devops 2025!")
